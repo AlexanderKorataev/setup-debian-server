@@ -16,11 +16,11 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/debian-server-setup.git
+git clone https://github.com/yourusername/setup-debian-server.git
 ```
 2. Перейдите в директорию репозитория:
 ```bash
-cd debian-server-setup
+cd setup-debian-server
 ```
 3. Сделайте скрипт исполняемым:
 ```bash
