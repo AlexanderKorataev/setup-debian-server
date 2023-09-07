@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/setup-debian-server.git
+git clone https://github.com/AlexanderKorataev/setup-debian-server.git
 ```
 2. Перейдите в директорию репозитория:
 ```bash
